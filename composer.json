@@ -7,7 +7,7 @@
     "SendNile",
     "sendnile",
     "SendNile PHP API",
-    "SendNile RESTful API",
+    "SendNile RESTful API"
   ],
   "require": {
     "php": ">=5.6",
@@ -18,7 +18,7 @@
   },
   "autoload": {
     "psr-4": {
-        "Src\\": "src/"
+      "Src\\": "src/"
     }
   }
 }
