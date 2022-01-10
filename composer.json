@@ -1,5 +1,5 @@
 {
-  "name": "sendnile",
+  "name": "sendnile/sendnile",
   "description": "This library allows you to send emails through SendNile using PHP.",
   "homepage": "https://github.com/codenile/sendnile-api-php",
   "license": "MIT",
