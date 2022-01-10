@@ -1,0 +1,24 @@
+{
+  "name": "sendnile",
+  "description": "This library allows you to send emails through SendNile using PHP.",
+  "homepage": "https://github.com/codenile/sendnile-api-php",
+  "license": "MIT",
+  "keywords": [
+    "SendNile",
+    "sendnile",
+    "SendNile PHP API",
+    "SendNile RESTful API",
+  ],
+  "require": {
+    "php": ">=5.6",
+    "ext-curl": "*",
+    "ext-json": "*",
+    "ext-mbstring": "*",
+    "ext-openssl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+        "Src\\": "src/"
+    }
+  }
+}
